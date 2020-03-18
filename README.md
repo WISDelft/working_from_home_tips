@@ -10,4 +10,5 @@ Find instructions here: [TU Delft Library Access Instructions](https://www.tudel
 ## Productivity and Focus
 
 - Try out Pomodoro technique, for Mac users Tomato One is a very simple app to help you with that.
-- Ignore Corona tweets by adding mute words. Go to: Seetings>Content preferences>Safety>Muted>Muted words
+- Ignore Corona tweets by adding mute words. Go to: Seetings>Content preferences>Safety>Muted>Muted words.
+- If you have problems keeping away from social media, a (paid) alternative for computers and phones is [Freedom](https://freedom.to/). Free alternatives include [ColdTurkey](https://getcoldturkey.com/pricing/) and [SelfControl](https://selfcontrolapp.com/)(Mac Only)
